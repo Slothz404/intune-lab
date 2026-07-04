@@ -54,11 +54,10 @@ During implementation, Microsoft's Administrative Template wording required care
 ---
 
 ## Evidence 
-I'd include screenshots like:
 
-- Configuration Profile overview
-- Device Configuration showing Succeeded
-- Windows Security showing "This setting is managed by your administrator."
+- ![Device Configuration Status](../screenshots/int-005-windows-security-managed-by-administrator.png)
+- ![Device Configuration Status](../screenshots/INT-005 config success.png)
+- ![Device Configuration Status](../screenshots/int-005-device-configuration-succeeded.png)
 
 ## Implementation
 
