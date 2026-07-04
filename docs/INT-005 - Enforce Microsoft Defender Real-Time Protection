@@ -61,11 +61,11 @@ During implementation, Microsoft's Administrative Template wording required care
 
 ### Configuration Profile Overview
 
-![Device Configuration Status](../screenshots/INT-005 config success.png)
+![Device Configuration Status](../screenshots/int-005-device-configuration-succeeded.png)
 
 ### Device Configuration Status
 
-![Device Configuration Status](../screenshots/int-005-device-configuration-succeeded.png)
+![Device Configuration Status](../screenshots/int-005-configuration-profile-overview.png)
 
 ## Implementation
 
