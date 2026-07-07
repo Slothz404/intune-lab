@@ -86,6 +86,18 @@ The following items were confirmed:
 - Alex Walker is a member of the SG-IT-Users security group.
 - The Senior Systems Administrator account is also a member of SG-IT-Users.
 
+## Evidence
+
+The following screenshots were captured during implementation.
+
+### Department Security Groups
+
+![Device Configuration Status](../screenshots/INT-003-Security-Groups.png)
+
+### Alex Walker Active User
+
+![Device Configuration Status](../screenshots/INT-003-Alex-Active-User.png)
+
 ## Lessons Learned
 
 This ticket helped reinforce the importance of building a strong identity structure before deploying devices. Creating users and assigning them to security groups was much simpler than I originally expected, and the Microsoft Entra ID interface became much less overwhelming after working through the process.
