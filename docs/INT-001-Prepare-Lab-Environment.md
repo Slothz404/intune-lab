@@ -1,6 +1,4 @@
-</> Markdown
-
-# INT-001 – Prepare the Microsoft Intune Lab Environment
+# INT-001 - Prepare the Microsoft Intune Lab Environment
 
 ## Objective
 
@@ -20,8 +18,8 @@ Microsoft Intune and Microsoft Entra ID were selected to provide cloud-based dev
 | Microsoft License | Microsoft 365 Business Premium |
 | Identity Platform | Microsoft Entra ID |
 | Device Management | Microsoft Intune |
-| Virtualization | Oracle Virtualbox |
-| Guest Operation System | Windows 11 Enterprise |
+| Virtualization | Oracle VirtualBox |
+| Guest Operating System | Windows 11 Enterprise |
 | Host Operating System | Windows 11 Home |
 | Number of Devices | One Windows 11 Enterprise Virtual Machine |
 
