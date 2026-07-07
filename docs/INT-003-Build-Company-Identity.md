@@ -41,14 +41,13 @@ Create the initial organizational identity structure for Slothz Tech Solutions b
 | Component | Details |
 |-----------|---------|
 | Identity Platform | Microsoft Entra ID |
-| Device Management | Microsoft Microsoft Intune |
+| Device Management | Microsoft Intune |
 | Licensing | Microsoft 365 Business Premium |
 | Organization | Slothz Tech Solutions |
 
 ---
 
 ## Design Decisions
-
 
 Department security groups were created before deploying devices to simplify management as the company grows. Instead of assigning applications, policies, and configurations to each user individually, they can be assigned to a security group. Any employee added to the appropriate group automatically receives the resources they need.
 
@@ -70,7 +69,7 @@ The following tasks were completed to establish the company's identity within Mi
   - Department: IT
   - Job Title: Endpoint Administrator
 
-- Assigned a Microsoft 365 business Premium license to Alex Walker.
+- Assigned a Microsoft 365 Business Premium license to Alex Walker.
 
 - Added Alex Walker to the SG-IT-Users security group.
 
@@ -84,7 +83,7 @@ The following items were confirmed:
 
 - Department security groups were successfully created.
 - Alex Walker appears as an active licensed user.
-- Alex walker is a member of the SG-IT-Users security group.
+- Alex Walker is a member of the SG-IT-Users security group.
 - The Senior Systems Administrator account is also a member of SG-IT-Users.
 
 ## Lessons Learned
