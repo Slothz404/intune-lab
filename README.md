@@ -35,9 +35,9 @@ Rather than following isolated tutorials, this project simulates the work of an 
 - [x] Created Microsoft 365 tenant
 - [x] Configured automatic enrollment
 - [x] Enrolled first Windows 11 virtual machine
-- [ ] Create device groups
-- [ ] Deploy configuration profiles
-- [ ] Create compliance policies
+- [x] Create device groups
+- [x] Deploy configuration profiles
+- [x] Create compliance policies
 - [ ] Deploy applications
 - [ ] Configure Windows Update rings
 - [ ] Configure Endpoint Security
