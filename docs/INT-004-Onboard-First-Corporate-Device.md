@@ -59,9 +59,13 @@ Creating a new device also provided additional hands-on experience with the Wind
 
 The following screenshots were captured during implementation:
 
-- Windows "Access work or school" showing organizational connection
-- Microsoft Entra ID device overview
-- Microsoft Intune device overview
+### Microsoft Entra ID Device Overview
+
+![Microsoft Entra ID Device Overview](../screenshots/INT-004-Device-Entra.png)
+
+### Microsoft Intune Device Overview
+
+![Microsoft Intune Device Overview](../screenshots/INT-004-Device-Intune.png)
 
 ## Implementation
 
