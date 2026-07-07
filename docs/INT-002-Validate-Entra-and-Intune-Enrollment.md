@@ -13,6 +13,7 @@ Before deploying Microsoft Intune to employees, Slothz Tech Solutions must verif
 Remove the test device from Microsoft Entra ID and Microsoft Intune if enrollment validation is unsuccessful.
 
 ---
+
 ## Business Scenario
 
 Before onboarding production devices, the IT department needs to verify that the automatic enrollment process functions correctly. A test Windows 11 Enterprise virtual machine will be enrolled to confirm that Microsoft Entra ID integration and Microsoft Intune management are operating as expected.
@@ -46,6 +47,6 @@ Validate that a Windows 11 Enterprise device can successfully:
 
 ## Lab Notes
 
-The initial enrollment validation was completed using Windows Enterprise.
+The initial enrollment validation was completed using Windows 11 Enterprise.
 
-After validating the enrollment process, the lab was standardized Windows 11 Pro for future use. Windows 11 Pro supports the Microsoft Intune features required for this project while reducing unnecessary complexity.
+After validating the enrollment process, the lab was standardized on Windows 11 Pro for future use. Windows 11 Pro supports the Microsoft Intune features required for this project while reducing unnecessary complexity.
