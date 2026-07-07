@@ -47,6 +47,8 @@ Provision a corporate Windows device that can successfully:
 | User | Alex Walker |
 | Device Name | STS-IT-LT-001 |
 
+---
+
 ## Design Decisions
 
 A new corporate device was created instead of continuing to use the original test device. This allowed the environment to follow the naming standards established by Slothz Tech Solutions while separating the initial proof-of-concept from the production-style environment.
