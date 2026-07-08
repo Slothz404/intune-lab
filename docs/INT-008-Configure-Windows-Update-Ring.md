@@ -86,11 +86,11 @@ Users were blocked from pausing Windows updates to ensure corporate devices cont
 
 ### Windows Update Managed Settings
 
-![Windows Update Managed Settings](../screenshots/int-008-windows-update-managed-settings.png)
+![Windows Update Managed Settings](../screenshots/INT-008-Windows-Update-Managed-Settings.png)
 
 ### Update Ring Device Status
 
-![Update Ring Device Status](../screenshots/int-008-update-ring-device-status-success.png)
+![Update Ring Device Status](../screenshots/INT-008-Windows-Update-Ring-Successs.png)
 
 ---
 
