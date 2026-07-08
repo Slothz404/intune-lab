@@ -90,7 +90,7 @@ Users were blocked from pausing Windows updates to ensure corporate devices cont
 
 ### Update Ring Device Status
 
-![Update Ring Device Status](../screenshots/INT-008-Windows-Update-Ring-Successs.png)
+![Windows Update Ring Success](../screenshots/INT-008-Windows-Update-Ring-Successs.png)
 
 ---
 
