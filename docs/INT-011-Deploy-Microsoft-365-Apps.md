@@ -83,7 +83,7 @@ The app suite was deployed to devices instead of users because any corporate-man
 
 ### Microsoft 365 Apps Assignment
 
-![Microsoft 365 Apps Assignment](../screenshots/Int-011-M365-Apps-Overview-Assigned.png)
+![Microsoft 365 Apps Assignment](../screenshots/INT-011-M365-Apps-Overview-Assigned.png)
 
 ### Microsoft 365 Apps Install Pending
 
