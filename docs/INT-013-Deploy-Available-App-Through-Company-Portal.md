@@ -75,7 +75,7 @@ This deployment demonstrates how Company Portal can be used as a self-service ap
 
 ### Microsoft To Do Installed in Company Portal
 
-![Microsoft To Do Installed in Company Portal](../screenshots/INT-013-Microsoft-Todo-Installed-Company-Portal.png)
+![Microsoft To Do Installed in Company Portal](../screenshots/INT-013-Microsoft-Todo-Installed.png)
 
 ---
 
