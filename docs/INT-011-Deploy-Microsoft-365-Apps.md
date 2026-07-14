@@ -91,7 +91,7 @@ The app suite was deployed to devices instead of users because any corporate-man
 
 ### Microsoft 365 Apps Installed on Endpoint
 
-![Microsoft 365 Apps Installed on Endpoint](../screenshots/INT-011-M365-Apps-Installed-Start-Menu.png)
+![Microsoft 365 Apps Installed on Endpoint](../screenshots/INT-011-365-Apps-Installed-Start-Menu.png)
 
 ---
 
