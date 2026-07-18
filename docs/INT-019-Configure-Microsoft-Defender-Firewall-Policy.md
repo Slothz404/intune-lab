@@ -119,10 +119,6 @@ After remediation and device sync, the firewall policy reported successful deplo
 
 ## Evidence
 
-### Firewall Configuration Settings
-
-![Firewall Configuration Settings](../screenshots/INT-019-Firewall-Configuration-Settings.png)
-
 ### Firewall Review and Create
 
 ![Firewall Review and Create](../screenshots/INT-019-Firewall-Review-Create.png)
